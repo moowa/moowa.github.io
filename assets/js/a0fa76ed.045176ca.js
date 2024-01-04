@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[8862],{1188:t=>{t.exports=JSON.parse('{"label":"typescript","permalink":"/docs/tags/typescript","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/typescript","title":"Typescript","description":"Documentation","permalink":"/docs/knowtes/typescript"}]}')}}]);
