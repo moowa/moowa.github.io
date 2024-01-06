@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[1586],{4307:s=>{s.exports=JSON.parse('{"label":"Testing Frameworks","permalink":"/docs/tags/testing-frameworks","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/testing_frameworks","title":"Testing Frameworks","description":"Python","permalink":"/docs/knowtes/testing_frameworks"}]}')}}]);

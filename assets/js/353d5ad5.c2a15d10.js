@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[6675],{2055:e=>{e.exports=JSON.parse('{"label":"Data Engineering","permalink":"/docs/tags/data-engineering","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/data_engineering","title":"Data Engineering","description":"Lakehouse","permalink":"/docs/knowtes/data_engineering"}]}')}}]);
