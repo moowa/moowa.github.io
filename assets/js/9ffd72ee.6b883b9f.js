@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[2457],{2621:e=>{e.exports=JSON.parse('{"label":"airflow","permalink":"/docs/tags/airflow","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/airflow","title":"Apache Airflow","description":"- running airflow in docker\u2197\ufe0f","permalink":"/docs/knowtes/airflow"}]}')}}]);

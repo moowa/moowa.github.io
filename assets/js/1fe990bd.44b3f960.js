@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[5847],{5874:s=>{s.exports=JSON.parse('{"label":"vscode","permalink":"/docs/tags/vscode","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/visualstudiocode","title":"Visual Studio Code","description":"Keyboard Shortcuts","permalink":"/docs/knowtes/visualstudiocode"}]}')}}]);

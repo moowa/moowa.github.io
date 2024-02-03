@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[3140],{4332:s=>{s.exports=JSON.parse('{"label":"design","permalink":"/docs/tags/design","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/icons","title":"Emojis and Icons","description":"List of emojis \ud83e\udd73","permalink":"/docs/knowtes/icons"}]}')}}]);

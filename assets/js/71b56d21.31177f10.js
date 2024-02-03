@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[9916],{7730:e=>{e.exports=JSON.parse('{"label":"http server","permalink":"/docs/tags/http-server","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/http_server","title":"Python http server","description":"- Docs\u2197\ufe0f","permalink":"/docs/knowtes/http_server"}]}')}}]);

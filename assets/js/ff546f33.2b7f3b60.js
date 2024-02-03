@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[5436],{4992:e=>{e.exports=JSON.parse('{"label":"latex","permalink":"/docs/tags/latex","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/latex","title":"Latex","description":"References to Latex","permalink":"/docs/knowtes/latex"}]}')}}]);

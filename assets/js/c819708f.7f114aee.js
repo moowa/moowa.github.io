@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7575],{5521:e=>{e.exports=JSON.parse('{"label":"sqlite","permalink":"/docs/tags/sqlite","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/sqlite","title":"SQLite","description":"- .schema  - describe table schema","permalink":"/docs/knowtes/sqlite"}]}')}}]);

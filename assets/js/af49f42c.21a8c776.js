@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[6126],{5247:e=>{e.exports=JSON.parse('{"label":"superset","permalink":"/docs/tags/superset","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/superset","title":"Superset","description":"Documentation","permalink":"/docs/knowtes/superset"}]}')}}]);

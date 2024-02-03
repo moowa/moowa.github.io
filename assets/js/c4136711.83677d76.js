@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7176],{6577:e=>{e.exports=JSON.parse('{"label":"time","permalink":"/docs/tags/time","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/time_calcs","title":"Time Calculations","description":"- Difference between two dates\u2197\ufe0f","permalink":"/docs/knowtes/time_calcs"}]}')}}]);

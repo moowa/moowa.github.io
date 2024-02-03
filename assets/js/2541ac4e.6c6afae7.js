@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[232],{9450:e=>{e.exports=JSON.parse('{"label":"sqlalchemy","permalink":"/docs/tags/sqlalchemy","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/sqlalchemy","title":"SQLAlchemy","description":"- Raw SQL with parameters","permalink":"/docs/knowtes/sqlalchemy"}]}')}}]);

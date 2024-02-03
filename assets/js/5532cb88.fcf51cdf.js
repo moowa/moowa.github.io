@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[4648],{1768:e=>{e.exports=JSON.parse('{"label":"tmux","permalink":"/docs/tags/tmux","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/tmux","title":"Tmux","description":"- tmux new - Create new tmux session","permalink":"/docs/knowtes/tmux"}]}')}}]);
