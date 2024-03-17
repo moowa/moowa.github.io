@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[6500],{2416:s=>{s.exports=JSON.parse('{"label":"wsl","permalink":"/docs/tags/wsl","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/wsl","title":"WSL commands on Windows PowerShell","description":"- List: wsl --list --verbose","permalink":"/docs/knowtes/wsl"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[8642],{8244:e=>{e.exports=JSON.parse('{"label":"regex","permalink":"/docs/tags/regex","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/re","title":"regex","description":"* \\\\w - word character: letter, number and underscore characters","permalink":"/docs/knowtes/re"}]}')}}]);

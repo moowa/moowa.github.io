@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[5628],{104:e=>{e.exports=JSON.parse('{"label":"alembic","permalink":"/docs/tags/alembic","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/alembic","title":"Alembic","description":"How to use","permalink":"/docs/knowtes/alembic"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7265],{3792:s=>{s.exports=JSON.parse('{"label":"sftp","permalink":"/docs/tags/sftp","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/sftp","title":"sftp","description":"- Connecting: sftp @ then enter password.","permalink":"/docs/knowtes/sftp"}]}')}}]);

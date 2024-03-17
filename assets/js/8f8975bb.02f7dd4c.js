@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7576],{2418:s=>{s.exports=JSON.parse('{"label":"pyecharts","permalink":"/docs/tags/pyecharts","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/pyecharts","title":"PyeCharts","description":"* pyecharts gallery\u2197\ufe0f","permalink":"/docs/knowtes/pyecharts"}]}')}}]);

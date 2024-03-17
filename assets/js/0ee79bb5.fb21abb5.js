@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[1036],{672:s=>{s.exports=JSON.parse('{"label":"windows terminal","permalink":"/docs/tags/windows-terminal","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/windowsterminal","title":"Windows Terminal","description":"Keyboard Shortcuts","permalink":"/docs/knowtes/windowsterminal"}]}')}}]);

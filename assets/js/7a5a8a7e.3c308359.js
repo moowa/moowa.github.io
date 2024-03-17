@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7024],{2951:e=>{e.exports=JSON.parse('{"label":"sql server","permalink":"/docs/tags/sql-server","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/sqlserver","title":"SQL Server","description":"Select with limit","permalink":"/docs/knowtes/sqlserver"}]}')}}]);
