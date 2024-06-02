@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[8026],{6287:t=>{t.exports=JSON.parse('{"tag":{"label":"git","permalink":"/docs/tags/git","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/git","title":"Git","description":"Branch","permalink":"/docs/knowtes/git"}],"unlisted":false}}')}}]);

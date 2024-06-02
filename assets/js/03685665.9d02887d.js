@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[7040],{6827:e=>{e.exports=JSON.parse('{"label":"docker","permalink":"/docs/tags/docker","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/docker","title":"Docker","description":"Installation","permalink":"/docs/knowtes/docker"}]}')}}]);

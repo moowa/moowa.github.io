@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[4087],{9562:s=>{s.exports=JSON.parse('{"tag":{"label":"pbiviz","permalink":"/docs/tags/pbiviz","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/pbiviz","title":"Power BI Viz","description":"Power BI Custom Visuals","permalink":"/docs/knowtes/pbiviz"}],"unlisted":false}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[6145],{9429:s=>{s.exports=JSON.parse('{"label":"mysql","permalink":"/docs/tags/mysql","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/mysql","title":"MySQL","description":"Syntax","permalink":"/docs/knowtes/mysql"}]}')}}]);
