@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.4.0">
 <title data-rh="true">Git | Knowtes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://moowa.github.io/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://moowa.github.io/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://moowa.github.io/docs/knowtes/git"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Git | Knowtes"><meta data-rh="true" name="description" content="Branch"><meta data-rh="true" property="og:description" content="Branch"><link data-rh="true" rel="icon" href="/img/knowles.png"><link data-rh="true" rel="canonical" href="https://moowa.github.io/docs/knowtes/git"><link data-rh="true" rel="alternate" href="https://moowa.github.io/docs/knowtes/git" hreflang="en"><link data-rh="true" rel="alternate" href="https://moowa.github.io/docs/knowtes/git" hreflang="x-default"><link rel="stylesheet" href="/assets/css/styles.14f2719a.css">
-<script src="/assets/js/runtime~main.b431882c.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.c77e657d.js" defer="defer"></script>
 <script src="/assets/js/main.b9f06142.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -24,7 +24,14 @@
 <ul>
 <li><code>git reset --soft HEAD~1</code> - undo last commit but local modifications remain in uncommitted state (i.e., your changes are still there)</li>
 <li><code>git reset --hard HEAD~1</code> - undo last commit and remove local modifications (i.e., goodbye, changes)</li>
-<li><code>git commit --amend</code> - edit last commit message</li>
+<li><code>git commit --amend</code> - edit last commit message (not yet pushed)</li>
+<li>To amend pushed commit message:<!-- -->
+<ol>
+<li>Do <code>git commit --amend</code></li>
+<li>This will open up the editor. Modify the commit message, save and exit.</li>
+<li>Do <code>git push --force-with-lease</code></li>
+</ol>
+</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="rebase">Rebase<a class="hash-link" aria-label="Direct link to Rebase" title="Direct link to Rebase" href="/docs/knowtes/git#rebase">​</a></h2>
 <p>Scenario: Performed CommitA but forgot to include some files.</p>
