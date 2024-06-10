@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[2708],{9481:e=>{e.exports=JSON.parse('{"tag":{"label":"snack","permalink":"/docs/tags/snack","allTagsPath":"/docs/tags","count":1,"items":[{"id":"recipes/buldak_cheese","title":"Buldak Cheese","description":"Hack to make it less spicy.","permalink":"/docs/recipes/buldak_cheese"}],"unlisted":false}}')}}]);

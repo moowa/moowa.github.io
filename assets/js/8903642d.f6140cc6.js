@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[4729],{4970:e=>{e.exports=JSON.parse('{"tag":{"label":"baking","permalink":"/docs/tags/baking","allTagsPath":"/docs/tags","count":1,"items":[{"id":"recipes/pandesal","title":"Pandesal","description":"Combine in stand mixer","permalink":"/docs/recipes/pandesal"}],"unlisted":false}}')}}]);
