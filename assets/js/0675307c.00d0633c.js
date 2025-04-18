@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowtes=self.webpackChunkknowtes||[]).push([[1462],{6875:s=>{s.exports=JSON.parse('{"tag":{"label":"pandas","permalink":"/docs/tags/pandas","allTagsPath":"/docs/tags","count":1,"items":[{"id":"knowtes/pandas","title":"Pandas","description":"Reshaping Data","permalink":"/docs/knowtes/pandas"}],"unlisted":false}}')}}]);
